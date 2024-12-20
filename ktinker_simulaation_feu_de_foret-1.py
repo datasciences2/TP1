@@ -2,7 +2,7 @@
 """
 Created on Sat Aug  8 13:33:00 2020
 
-@author: NEM'S
+@author: nememie Kaingo
 """
 
 from random import sample, randrange
