@@ -1,1 +1,1 @@
-# Iimulation de feu de foret ou de brousse
+# Simulation de feu de foret ou de brousse
